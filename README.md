@@ -1,6 +1,8 @@
 # HaO-DES
 Source code for the article "Dynamic Ensemble Algorithm Post-Selection Using Hardness-Aware Oracle"
 
+Authors: Paulo R. G. Cordeiro; George D. C. Cavalcanti; Rafael M. O. Cruz
+
 Journal: IEEE Access Publication 
 
 Date: 2023 
